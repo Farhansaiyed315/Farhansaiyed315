@@ -5,10 +5,9 @@
 
 - Projects : https://projects-1-ho02.onrender.com/
   
-- 🔭 I’m currently working on New Projects.
-- 
+- 🔭 I’m currently working on NEW PROJECTS (WILL DEPLOY SOON).
 
-- 💬 Ask me about **Html,css,javascript,react,nodejs,Express...**
+- 💬 Ask me about **Html,css,javascript,react,nodejs,Express,MongoDb,Linux,Python...**
 
 - 📫 How to reach me **Saiyedfarhan315@gmail.com**
 
