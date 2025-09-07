@@ -2,10 +2,8 @@
 <h3 align="center">A passionate Software engineer</h3>
 
 
-
-- Projects : https://projects-1-ho02.onrender.com/
-- Source code for the above project : https://github.com/Farhansaiyed315/Projects/tree/main/ProjectOne
-  
+- Project frontend : https://bella-vista315.netlify.app/
+- Fullstck Projects : https://projects-1-ho02.onrender.com/
 - 🔭 I’m currently working on NEW PROJECTS (WILL DEPLOY SOON).
 
 - 💬 Ask me about **Html,css,javascript,react,nodejs,Express,MongoDb,Linux,Python...**
